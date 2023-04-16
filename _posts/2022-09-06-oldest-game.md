@@ -2,7 +2,6 @@
 layout: post
 title:  "The Invisible"
 summary: "Gameplay Programmer and Level Designer"
-date:   2022-08
 preview: /assets/TheInvisible.png
 ---
 
