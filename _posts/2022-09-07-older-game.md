@@ -5,6 +5,6 @@ summary: "Gameplay Engineer, UIUX, Game Design"
 preview: /assets/EmotionalDamage.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/EmotionalDamage.png)
 
 Put down info here, either in bullets or paragraphs.
